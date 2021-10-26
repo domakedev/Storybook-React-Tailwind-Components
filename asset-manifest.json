@@ -1,19 +1,19 @@
 {
   "files": {
-    "0.69fe334e.iframe.bundle.js": "./0.69fe334e.iframe.bundle.js",
-    "main.css": "./static/css/main.e5315dc0.chunk.css",
-    "main.js": "./main.7dc323d8.iframe.bundle.js",
-    "main.css.map": "./static/css/main.e5315dc0.chunk.css.map",
-    "runtime~main.js": "./runtime~main.ce336fe8.iframe.bundle.js",
-    "vendors~main.js": "./vendors~main.1e07a26d.iframe.bundle.js",
-    "vendors~main.js.map": "./vendors~main.1e07a26d.iframe.bundle.js.map",
-    "4.790eced9.iframe.bundle.js": "./4.790eced9.iframe.bundle.js",
-    "4.790eced9.iframe.bundle.js.map": "./4.790eced9.iframe.bundle.js.map",
-    "5.21378b8b.iframe.bundle.js": "./5.21378b8b.iframe.bundle.js",
+    "0.c2852668.iframe.bundle.js": "./0.c2852668.iframe.bundle.js",
+    "main.css": "./static/css/main.9c8ff798.chunk.css",
+    "main.js": "./main.dbecbfd3.iframe.bundle.js",
+    "main.css.map": "./static/css/main.9c8ff798.chunk.css.map",
+    "runtime~main.js": "./runtime~main.91f1f76f.iframe.bundle.js",
+    "vendors~main.js": "./vendors~main.6efbbc11.iframe.bundle.js",
+    "vendors~main.js.map": "./vendors~main.6efbbc11.iframe.bundle.js.map",
+    "4.18a1f5a4.iframe.bundle.js": "./4.18a1f5a4.iframe.bundle.js",
+    "4.18a1f5a4.iframe.bundle.js.map": "./4.18a1f5a4.iframe.bundle.js.map",
+    "5.ca3b406e.iframe.bundle.js": "./5.ca3b406e.iframe.bundle.js",
     "6.cb318b99.iframe.bundle.js": "./6.cb318b99.iframe.bundle.js",
     "6.cb318b99.iframe.bundle.js.map": "./6.cb318b99.iframe.bundle.js.map",
     "7.4ea8f519.iframe.bundle.js": "./7.4ea8f519.iframe.bundle.js",
-    "4.790eced9.iframe.bundle.js.LICENSE.txt": "./4.790eced9.iframe.bundle.js.LICENSE.txt",
+    "4.18a1f5a4.iframe.bundle.js.LICENSE.txt": "./4.18a1f5a4.iframe.bundle.js.LICENSE.txt",
     "6.cb318b99.iframe.bundle.js.LICENSE.txt": "./6.cb318b99.iframe.bundle.js.LICENSE.txt",
     "iframe.html": "./iframe.html",
     "static/media/Naruto.cf9cf6bb.png": "./static/media/Naruto.cf9cf6bb.png",
@@ -26,12 +26,12 @@
     "static/media/plugin.d494b228.svg": "./static/media/plugin.d494b228.svg",
     "static/media/repo.6d496322.svg": "./static/media/repo.6d496322.svg",
     "static/media/stackalt.dba9fbb3.svg": "./static/media/stackalt.dba9fbb3.svg",
-    "vendors~main.1e07a26d.iframe.bundle.js.LICENSE.txt": "./vendors~main.1e07a26d.iframe.bundle.js.LICENSE.txt"
+    "vendors~main.6efbbc11.iframe.bundle.js.LICENSE.txt": "./vendors~main.6efbbc11.iframe.bundle.js.LICENSE.txt"
   },
   "entrypoints": [
-    "runtime~main.ce336fe8.iframe.bundle.js",
-    "vendors~main.1e07a26d.iframe.bundle.js",
-    "static/css/main.e5315dc0.chunk.css",
-    "main.7dc323d8.iframe.bundle.js"
+    "runtime~main.91f1f76f.iframe.bundle.js",
+    "vendors~main.6efbbc11.iframe.bundle.js",
+    "static/css/main.9c8ff798.chunk.css",
+    "main.dbecbfd3.iframe.bundle.js"
   ]
 }
